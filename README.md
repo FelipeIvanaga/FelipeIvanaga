@@ -1,23 +1,29 @@
 <h1 align="center">Hi 👋, I'm Felipe Ivanaga</h1>
-<h3 align="center">A passionate backend developer from Curitiba/Brazil</h3>
+<h3 align="center">Junior Backend Developer from Curitiba/Brazil</h3>
 
 - 🤝 I'm currently looking for **a Backend or Fullstack job**
-
 - 👨‍💻 My website [https://ivanaga.vercel.app/](https://ivanaga.vercel.app/)
-
 - 📫 Email: **felipeivanaga@pm.me**
+- ⚡ **Always learning and growing**
 
-- ⚡ **I love cycling and coffee**
+## 💻 Social
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipeivanaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeivanaga" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/felipeivanaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="felipeivanaga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipeivanaga/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://www.twitch.tv/ivanaga">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="twitch" />
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" />
+</a>
+
+## 🚀 Skills
+
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,nextjs,react,tailwind,postgres,mongodb,prisma,docker,jest)](https://ivanaga.vercel.app/)
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/de71aed196a1a44d3caf9d9f3cfc20a7702f630d718fa8d353d35d64262ce126/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d66656c6970656976616e6167612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="felipeivanaga" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeivanaga&amp;show_icons=true&amp;theme=tokyonight&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
+  <img src="https://camo.githubusercontent.com/dd1e4b98e971257cdbf131d4c7bda734a92aeec29ec0b899ec37d9283f2f3781/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66656c6970656976616e6167612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c6f63616c653d656e" alt="felipeivanaga" data-canonical-src="https://github-readme-stats.vercel.app/api?username=felipeivanaga&amp;show_icons=true&amp;theme=tokyonight&amp;locale=en" style="max-width: 100%;">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeivanaga&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="felipeivanaga" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeivanaga&show_icons=true&theme=tokyonight&locale=en" alt="felipeivanaga" /></p>
