@@ -14,7 +14,7 @@
 <a href="https://www.twitch.tv/ivanaga">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="twitch" />
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/FelipeIvanaga/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" />
 </a>
 
